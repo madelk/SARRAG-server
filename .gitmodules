@@ -1,0 +1,3 @@
+[submodule "public/SARRAG-client"]
+	path = public/SARRAG-client
+	url = https://github.com/madelk/SARRAG-client
